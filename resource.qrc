@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="refresh">
+    <file>reload.png</file>
+    <file>battery.ico</file>
+  </qresource>
+</RCC>
